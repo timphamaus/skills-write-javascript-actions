@@ -11,5 +11,5 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - name: ha-ha
+      - name: joke-action
         uses: ./.github/actions/joke-action
